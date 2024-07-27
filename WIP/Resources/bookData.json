@@ -1,0 +1,122 @@
+[
+    {
+        "title": "Hyperion",
+        "author": "Dan Simmons",
+        "genre": "Science Fiction",
+        "isFavorite": true,
+        "isFinished": true,
+        "id": 1,
+        "summary": "Dans Hyperion, un groupe de sept pèlerins se rend sur la planète Hypérion pour rencontrer le Shrike, une créature redoutable. Chaque pèlerin raconte son histoire, révélant des thèmes de sacrifice, d'amour, et de quête spirituelle. Les récits sont entrelacés, évoquant des éléments de Les Contes de Canterbury de Chaucer, et explorent des questions philosophiques et religieuses à travers les expériences personnelles des personnages. Hyperion est un roman complexe et multi-dimensionnel qui interroge la condition humaine à travers le prisme de la science-fiction.",
+        "imageName": "hyperion"
+    },
+    {
+        "title": "The Fall Of Hyperion",
+        "author": "Dan Simmons",
+        "genre": "Science Fiction",
+        "isFavorite": false,
+        "isFinished": true,
+        "id": 2,
+        "summary": "La Chute d'Hypérion continue l'histoire des pèlerins alors qu'ils approchent de leur destination. Le roman approfondit les conséquences de leurs histoires et la lutte contre le pouvoir oppressif de l'Intelligence Ultime. Les intrigues politiques et les révélations sur le Shrike et les Tombeaux du Temps sont au cœur de l'intrigue, menant à des confrontations dramatiques et à des choix déchirants.",
+        "imageName": "theFallOfHyperion"
+    },
+    {
+        "title": "Endymion",
+        "author": "Dan Simmons",
+        "genre": "Science Fiction",
+        "isFavorite": false,
+        "isFinished": false,
+        "id": 3,
+        "summary": "Endymion se déroule plusieurs siècles après les événements des deux premiers livres. Il suit un nouveau protagoniste, Raul Endymion, qui est chargé de protéger une jeune fille nommée Aenea, une figure prophétique. Le roman explore les thèmes de la résistance contre l'oppression et le destin, tout en introduisant de nouveaux personnages et en développant l'univers complexe établi dans les livres précédents.",
+        "imageName": "endymion"
+    },
+    {
+        "title": "The Rise Of Endymion",
+        "author": "Dan Simmons",
+        "genre": "Science Fiction",
+        "isFavorite": false,
+        "isFinished": false,
+        "id": 4,
+        "summary": "L'Ascension d'Endymion conclut le cycle en suivant Raul et Aenea dans leur lutte contre les forces qui cherchent à les contrôler. Ce dernier tome aborde des thèmes de rédemption, d'amour et de sacrifice, tout en offrant des révélations sur le Shrike et le destin de l'humanité. Les personnages doivent naviguer à travers des défis épiques pour réaliser leur destin et comprendre leur place dans l'univers. Ces quatre romans forment une saga riche et complexe, mêlant science-fiction, philosophie et exploration des relations humaines dans un cadre futuriste.",
+        "imageName": "theRiseOfEndymion"
+    },
+    {
+        "title": "Ma Chère Petite Renée",
+        "author": "Jacques Moreau",
+        "genre": "Biographie",
+        "isFavorite": true,
+        "isFinished": true,
+        "id": 5,
+        "summary": "Correspondance entre un prisonnier de guerre français dans un camp de STO en Pologne, et sa femme dans la campagne angevine. La vie des prisonniers de guerre français dans les camps de travail en Allemagne entre 1940 et 1945 était difficile et éprouvante. Les prisonniers de guerre français ont subi une captivité éprouvante, entre travail forcé, privations et mauvais traitements. Leur retour en France en 1945 a été teinté d'amertume face à la situation du pays et au regard de la population sur leur absence du combat contre l'occupant - sans parler des libérateurs eux-mêmes, peu désireux de faire bonne impression.",
+        "imageName": "maCherePetiteRenee"
+    },
+    {
+        "title": "Migrante",
+        "author": "Joe Henley",
+        "genre": "Fiction",
+        "isFavorite": false,
+        "isFinished": true,
+        "id": 6,
+        "summary": "Migrante suit un jeune Philippin qui, pour fuir sa misère, émigre vers Taiwan et commence à travailler dans un bateau de pêche. Son histoire sert à illustrer la condition des travailleurs d'Asie du Sud-Est à Taiwan.",
+        "imageName": "migrante"
+    },
+    {
+        "title": "Develop In Swift - Fundamentals",
+        "author": "Apple",
+        "genre": "Science & Technologie",
+        "isFavorite": true,
+        "isFinished": false,
+        "id": 7,
+        "summary": "Ce livre est conçu pour aider les étudiants à maîtriser le langage de programmation Swift, qui est utilisé pour le développement d'applications iOS. Il comprend de nombreux exercices pratiques intéressants et stimulants qui permettent aux lecteurs de mettre en pratique ce qu'ils apprennent.",
+        "imageName": "developInSwift"
+    },
+    {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "genre": "Science Fiction",
+        "isFavorite": false,
+        "isFinished": true,
+        "id": 8,
+        "summary": "Dans Dune, le jeune Paul Atreides voit sa vie bouleversée lorsque sa famille accepte la régence de la planète Arrakis, un monde inhospitalier et éparsement peuplé. Alors que la maison Harkonnen complote pour récupérer le contrôle d'Arrakis, Paul et sa mère Jessica s'enfuient dans le désert et rejoignent les Fremen, un peuple local. Paul découvre qu'il possède des capacités extraordinaires et devient leur messie, Muad'Dib. Le roman explore les thèmes du pouvoir, de la religion, de l'écologie et de l'identité dans un cadre de science-fiction épique.",
+        "imageName": "dune"
+    },
+    {
+        "title": "Fool's Assassin",
+        "author": "Robin Hobb",
+        "genre": "Fantasy",
+        "isFavorite": false,
+        "isFinished": true,
+        "id": 9,
+        "summary": "Fool's Assassin de Robin Hobb est le premier tome de la série The Fitz and the Fool, qui reprend l'histoire de FitzChivalry Farseer, un ancien assassin et prince bâtard, alors qu'il tente de mener une vie paisible après des années de conflits. Le roman commence avec Fitz vivant dans la tranquillité de Withywoods, où il a trouvé un semblant de paix après avoir abandonné sa vie d'assassin. Cependant, cette paix est troublée par l'absence de son ami cher, le Fool, dont il n'a pas eu de nouvelles depuis longtemps. Fitz se consacre à sa nouvelle existence, mais il est hanté par des souvenirs de son passé tumultueux et par des regrets non résolus. L'intrigue prend un tournant lorsque Fitz reçoit un message urgent d'un messager, qui disparaît mystérieusement, laissant derrière lui une traînée de sang. Cet événement le tire de sa torpeur et le pousse à enquêter sur ce qui se trame autour de lui.",
+        "imageName": "foolsAssassin"
+    },
+    {
+        "title": "Fool's Quest",
+        "author": "Robin Hobb",
+        "genre": "Fantasy",
+        "isFavorite": false,
+        "isFinished": true,
+        "id": 10,
+        "summary": "Fool's Quest, le deuxième tome de la trilogie Fitz and the Fool de Robin Hobb, reprend l'histoire de FitzChivalry Farseer alors qu'il tente de sauver son ami de toujours, le Fou, des mains de ceux qui l'ont capturé et torturé. Après avoir retrouvé le Fou dans un état lamentable, Fitz décide de le ramener à Buckkeep pour qu'il soit soigné. Cependant, leur voyage est interrompu lorsque Withywoods, le domaine de Fitz, est attaqué. Sa fille Bee est enlevée par les assaillants, qui la prennent pour 'le Fils Inattendu', une figure prophétique. Fitz doit alors faire face à un dilemme : poursuivre sa quête pour sauver le Fou ou partir à la recherche de sa fille disparue. Il choisit finalement de se lancer sur les traces de Bee, entraînant le Fou avec lui malgré son état de faiblesse. Leur périple les mène à travers les Duchés, où ils rencontrent d'anciens alliés et ennemis. Fitz doit affronter son passé d'assassin et de prince bâtard tout en essayant de protéger ceux qu'il aime.",
+        "imageName": "foolsQuest"
+    },
+    {
+        "title": "Murder Your Employer",
+        "author": "Rupert Holmes",
+        "genre": "Fiction",
+        "isFavorite": false,
+        "isFinished": false,
+        "id": 11,
+        "summary": "Murder Your Employer: The McMasters Guide to Homicide est un roman de mystère écrit par Rupert Holmes, publié en 2023. L'histoire se déroule dans les années 1950 et suit les expériences de trois étudiants d'une école de formation unique, le McMasters Conservatory, qui enseigne l'art de l'assassinat. Le roman présente les récits de Cliff Iverson, un ingénieur aéronautique, Gemma Lindley, une employée d'hôpital, et Dulcie Mown, une diva d'Hollywood. Chacun d'eux est confronté à la tâche de 'supprimer' leur employeur dans le cadre de leur formation. L'histoire est racontée à travers des entrées de journal de Cliff et des narrations alternées des autres personnages, créant un mélange de mystère, d'humour noir et de rivalités académiques. Le livre explore les thèmes de la moralité, de la vengeance et des conséquences de leurs actions, tout en offrant des rebondissements inattendus et une intrigue captivante.",
+        "imageName": "murderYourEmployer"
+    },
+    {
+        "title": "Ready Player Two",
+        "author": "Ernest Cline",
+        "genre": "Aventure",
+        "isFavorite": false,
+        "isFinished": true,
+        "id": 12,
+        "summary": "Dans Ready Player Two, la suite de Ready Player One d'Ernest Cline, l'histoire suit Wade Watts, qui découvre un nouveau dispositif appelé ONI, permettant aux utilisateurs de vivre des expériences immersives dans l'Oasis. Cependant, l'utilisation prolongée de l'ONI peut causer des dommages cérébraux. L'intrigue se concentre sur une quête pour retrouver sept fragments qui restaureront l'IA de Kira, une entité que Halliday avait précédemment enfermée. Les fragments sont cachés dans divers lieux inspirés de la culture pop, comme l'appartement de Kira, la première vidéo d'un artiste de jeux vidéo, et un monde basé sur les films de John Hughes. Au fur et à mesure que Wade et ses amis avancent dans leur quête, ils doivent faire face à des défis, notamment un Anorak devenu conscient qui les enferme dans l'Oasis jusqu'à ce qu'ils réussissent. La fin révèle que ceux qui utilisent l'ONI peuvent voir leur conscience sauvegardée dans l'Oasis, permettant ainsi à des personnages comme Og de revenir sous forme d'IA. Le récit explore des thèmes de technologie, d'identité et de la lutte entre le réel et le virtuel, tout en intégrant des références à la culture des années 80 et 90.",
+        "imageName": "readyPlayerTwo"
+    }
+]
